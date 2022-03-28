@@ -1,0 +1,140 @@
+{
+  "user": [
+    {
+      "firstName": "Dip",
+      "lastName": "Patel",
+      "username": "PatelD",
+      "email": "deeppatel@gmail.com",
+      "phoneNumber": "5343333333",
+      "password": "aIkFQvGaLZ1hbnAA/FBS6A==",
+      "role": {
+        "id": 2,
+        "name": "ADMIN",
+        "value": "Admin"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_npiyp",
+      "dob": "1996-06-11T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "majid",
+      "lastName": "belim",
+      "username": "majid.beim",
+      "email": "majid@gmail.com",
+      "phoneNumber": "0942673742",
+      "role": {
+        "id": 1,
+        "name": "USER",
+        "value": "User"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_d8mp1",
+      "dob": "1996-06-11T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "username": "ajay.patel",
+      "firstName": "Ajay",
+      "lastName": "Patel",
+      "uniqueId": "U_ymktx",
+      "phoneNumber": "9879879879",
+      "email": "ajay@gmail.com",
+      "dob": "Wed Jun 12 1996 00:00:00 GMT+0530 (India Standard Time)",
+      "role": {
+        "id": 1,
+        "name": "USER",
+        "value": "User"
+      },
+      "password": "aIkFQvGaLZ1hbnAA/FBS6A==",
+      "status": "ACTIVE"
+    },
+    {
+      "firstName": "jyoti",
+      "lastName": "parmar",
+      "username": "jd",
+      "email": "jyoti.parmar@gmail.com",
+      "phoneNumber": "343545465",
+      "role": {
+        "id": 2,
+        "name": "ADMIN",
+        "value": "Admin"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_090op",
+      "dob": "2022-03-22T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "nita",
+      "lastName": "joshi",
+      "username": "nitu",
+      "email": "nita@gmail.com",
+      "phoneNumber": "5654656765",
+      "role": {
+        "id": 2,
+        "name": "ADMIN",
+        "value": "Admin"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_unecfg",
+      "dob": "2022-02-28T18:30:00.000Z",
+      "password": "aIkFQvGaLZ1hbnAA/FBS6A==",
+      "createdAt": 1648398855254,
+      "id": 10
+    },
+    {
+      "firstName": "merry",
+      "lastName": "patel",
+      "username": "merry.patel",
+      "email": "merry@gmail.com",
+      "phoneNumber": "3544657543",
+      "role": {
+        "id": 1,
+        "name": "USER",
+        "value": "User"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_5bnjy",
+      "dob": "2022-03-01T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "firstName": "megha",
+      "lastName": "Parmar",
+      "username": "megha.parmar",
+      "email": "1997meghal@gmail.com",
+      "phoneNumber": "4546576",
+      "role": {
+        "id": 2,
+        "name": "ADMIN",
+        "value": "Admin"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_5wyd4i",
+      "dob": "1997-03-21T18:30:00.000Z",
+      "password": "aIkFQvGaLZ1hbnAA/FBS6A==",
+      "createdAt": 1648412948738,
+      "id": 12
+    },
+    {
+      "firstName": "mina",
+      "lastName": "patel",
+      "username": "minu",
+      "email": "mina@gmail.com",
+      "phoneNumber": "6567567576",
+      "role": {
+        "id": 2,
+        "name": "ADMIN",
+        "value": "Admin"
+      },
+      "status": "ACTIVE",
+      "uniqueId": "U_bpsiq",
+      "dob": "2022-03-15T18:30:00.000Z",
+      "password": "aIkFQvGaLZ1hbnAA/FBS6A==",
+      "createdAt": 1648443501574,
+      "id": 13
+    }
+  ]
+}
